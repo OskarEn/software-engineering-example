@@ -9,7 +9,7 @@ _Goals_
 Use Cases
 * Write some use cases for the organizer
 * Create a use case diagram
-** Study use cases and include any pre-conditions, guaramtees, and triggers that may be appropriate
+ * Study use cases and include any pre-conditions, guaramtees, and triggers that may be appropriate
 
 Class Diagrams
 * Construct candidate class list
